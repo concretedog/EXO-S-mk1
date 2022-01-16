@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="185.63234mm"
+   height="85.089394mm"
+   viewBox="0 0 185.63234 85.089394"
+   version="1.1"
+   id="svg118"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="swamprat_65mmide_wingtips.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview120"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.55945567"
+     inkscape:cx="237.73108"
+     inkscape:cy="306.54797"
+     inkscape:window-width="1464"
+     inkscape:window-height="800"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     lock-margins="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <defs
+     id="defs115" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.9230908,5.3987539)">
+    <path
+       id="rect2082"
+       style="opacity:0.86;fill:none;fill-opacity:0.60406;stroke:#010000;stroke-width:0.02;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+       d="M 9.0869092,4.6112461 V 37.11779 69.617614 H 41.546426 c 0.01347,1.5e-5 0.02683,5.16e-4 0.04031,5.16e-4 h 15.00011 c 18.005,0 32.49983,-14.495341 32.49983,-32.50034 0,-18.005001 -14.49483,-32.4998259 -32.49983,-32.4998259 H 44.073403 v -0.0067 z" />
+    <path
+       id="path2583"
+       style="opacity:0.86;fill:none;fill-opacity:0.60406;stroke:#010000;stroke-width:0.02;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+       d="m 94.699495,4.673754 v 32.506544 32.499824 h 32.459515 c 0.0135,1.5e-5 0.0268,5.16e-4 0.0403,5.16e-4 h 15.00011 c 18.005,0 32.49983,-14.495341 32.49983,-32.50034 0,-18.005001 -14.49483,-32.499826 -32.49983,-32.499826 h -12.51344 v -0.0067 z" />
+  </g>
+</svg>
